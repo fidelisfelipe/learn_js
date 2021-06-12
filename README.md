@@ -10,10 +10,10 @@
 #counter
 use:
 
-*document.querySelectorAll()
-*forEach()
-*addEventListener()
-*currentTarget property
-*classList
-*textContent
+  document.querySelectorAll()
+  forEach()
+  addEventListener()
+  currentTarget property
+  classList
+  textContent
 
