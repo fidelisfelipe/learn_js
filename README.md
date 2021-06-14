@@ -17,3 +17,15 @@ use:
 - [X] currentTarget property > https://developer.mozilla.org/pt-BR/search?q=currentTarget
 - [X] classList > https://developer.mozilla.org/pt-BR/search?q=classList
 - [X] textContent > https://developer.mozilla.org/pt-BR/search?q=textContent
+
+- color-flipper
+use:
+
+- [X] arrays
+- [X] document.getElementById()
+- [X] document.querySelector()
+- [X] addEventListener()
+- [X] document.body.style.backgroundColor
+- [X] Math.floor()
+- [X] Math.random()
+- [X] array.length
