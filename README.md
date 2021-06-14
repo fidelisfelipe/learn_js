@@ -29,3 +29,12 @@ use:
 - [X] Math.floor()
 - [X] Math.random()
 - [X] array.length
+
+- reviews
+use:
+
+- [X] objects
+- [X] DOMContentLoaded
+- [X] addEventListener()
+- [X] array.length
+- [X] textContent
