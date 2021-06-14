@@ -38,3 +38,10 @@ use:
 - [X] addEventListener()
 - [X] array.length
 - [X] textContent
+
+ - navbar
+ use:
+
+- [X] document.querySelector()
+- [X] addEventListener()
+- [X] classList.toggle()
